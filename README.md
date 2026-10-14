@@ -1,5 +1,8 @@
 # Accounts Payable & Invoice Exception Analytics
 
+# <img width="1215" height="750" alt="image" src="https://github.com/user-attachments/assets/2450d2e9-4af4-44e9-95e4-3dd664d34702" />
+
+
 ## Project Overview
 
 This project analyzes Accounts Payable (AP) invoice and payment records using Microsoft Excel. It focuses on invoice reconciliation, duplicate invoice submissions, payment status monitoring, payment exceptions, and overdue vendor balances.
