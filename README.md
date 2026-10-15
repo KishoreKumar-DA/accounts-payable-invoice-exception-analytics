@@ -120,6 +120,11 @@ The workbook is a demonstration of analytical workflow and reporting design, not
 
 - The dataset is synthetic and intended for learning and portfolio demonstration.
 
+## Project Files
+
+- `Accounts_Payable_Invoice_Exception_Analytics_Dataset.xlsx` — Excel workbook containing vendor analysis and dashboard.
+- `README.md` — Project documentation.
+
 ## Skills Demonstrated
 
 Excel Data Analysis | Invoice Reconciliation | Exception Reporting | Payment Monitoring | PivotTables | PivotCharts | KPI Reporting | Dashboard Development | Finance Operations Analytics
