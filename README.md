@@ -122,7 +122,7 @@ The workbook is a demonstration of analytical workflow and reporting design, not
 
 ## Project Files
 
-- `Accounts_Payable_Invoice_Exception_Analytics_Dataset.xlsx` — Excel workbook containing vendor analysis and dashboard.
+- `Accounts_Payable_Invoice_Exception_Analytics_Dataset.xlsx` — Excel workbook containing analysis and dashboard.
 - `README.md` — Project documentation.
 
 ## Skills Demonstrated
