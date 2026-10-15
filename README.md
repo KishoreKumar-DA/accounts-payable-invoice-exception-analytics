@@ -119,10 +119,6 @@ The workbook is a demonstration of analytical workflow and reporting design, not
 ## Limitations & Assumptions
 
 - The dataset is synthetic and intended for learning and portfolio demonstration.
-- Duplicate flags identify potential duplicate submissions and require human review.
-- The exception chart displays one assigned exception category per invoice record.
-- Overdue balances are calculated from invoice amounts and successful payments; duplicate records and other reconciliation issues require review before balances are treated as final payable liabilities.
-- The overdue calculation uses 14 October 2026 as the reporting date. Update the reporting date when using the workbook for a different period.
 
 ## Skills Demonstrated
 
